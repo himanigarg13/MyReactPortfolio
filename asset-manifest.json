@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyReactPortfolio/static/css/main.8c3a82db.css",
+    "main.js": "/MyReactPortfolio/static/js/main.57d41ee6.js",
+    "static/media/Coffeeshop.png": "/MyReactPortfolio/static/media/Coffeeshop.8a93e2d071bbd071ddab.png",
+    "static/media/about.jpg": "/MyReactPortfolio/static/media/about.51cad1be045a0edbf2eb.jpg",
+    "static/media/profile.jpeg": "/MyReactPortfolio/static/media/profile.22c2329cce177b60c32c.jpeg",
+    "static/media/Admindashboard Project.jpg": "/MyReactPortfolio/static/media/Admindashboard Project.06f95598e3a8696b8cd1.jpg",
+    "static/media/himani-Cv.pdf": "/MyReactPortfolio/static/media/himani-Cv.3ead4ce1c917fb7583d2.pdf",
+    "static/media/Moviesearch.png": "/MyReactPortfolio/static/media/Moviesearch.3f1cb4cf79e23151769a.png",
+    "static/media/Engdictionary.png": "/MyReactPortfolio/static/media/Engdictionary.ebd8f1d8efc6c2e5e32f.png",
+    "static/media/Todolist.png": "/MyReactPortfolio/static/media/Todolist.f872bd37fd6f2e47a617.png",
+    "static/media/Walletapp.png": "/MyReactPortfolio/static/media/Walletapp.905d5215539d63fbbbcb.png",
+    "index.html": "/MyReactPortfolio/index.html",
+    "main.8c3a82db.css.map": "/MyReactPortfolio/static/css/main.8c3a82db.css.map",
+    "main.57d41ee6.js.map": "/MyReactPortfolio/static/js/main.57d41ee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3a82db.css",
+    "static/js/main.57d41ee6.js"
+  ]
+}
